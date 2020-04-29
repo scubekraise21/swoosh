@@ -2,11 +2,13 @@ package com
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.swoosh.R
 
-class Leaugue_Activity : AppCompatActivity() {
+class LeagueActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
 
 
         setContentView(R.layout.activity_leaugue_)
