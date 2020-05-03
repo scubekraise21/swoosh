@@ -1,11 +1,10 @@
-package com
+package controller
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
-import android.widget.Toast.LENGTH_SHORT
+import utilities.EXTRA_LEAGUE
 import com.example.swoosh.R
 import kotlinx.android.synthetic.main.activity_leaugue_.*
 
